@@ -8,5 +8,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://quantumcomputingreport.com/wp-content/uploads/2024/03/image-24.png" alt="Qiskit" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://quantumcomputingreport.com/wp-content/uploads/2024/03/image-24.png" alt="Qiskit" width="60" height="40"/> </a>
 </p>
